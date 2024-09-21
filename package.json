@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "bootstrap-italia": "^2.9.1",
+    "g": "^2.0.1",
+    "hexo-cli": "^4.3.2"
+  }
+}
